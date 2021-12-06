@@ -7,7 +7,7 @@ let solution = (9, 32)
 console.log(solution)
 
 //opción 2
-function sum1 (numberOne, numberTwo) {
+let sum1 = (numberOne, numberTwo) => {
     if (numberOne > numberTwo) {
         console.log(numberOne)
     } else console.log(numberTwo)
