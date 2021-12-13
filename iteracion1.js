@@ -1,3 +1,5 @@
+//Completa la función que tomando dos números como argumento devuelva el más alto.
+
 //opción 1
 function sum (numberOne, numberTwo) {
     return Math.max(numberOne, numberTwo)
